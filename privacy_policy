@@ -14,12 +14,12 @@ O Fat Key respeita sua privacidade e está comprometido em proteger os dados pes
 O Fat Key não coleta informações pessoais diretamente identificáveis, como nome, e-mail ou endereço, a menos que você opte por nos fornecer voluntariamente.  
 
 2.2 **Informações da Câmera**  
-O aplicativo utiliza a câmera do dispositivo para ler códigos de barras de livros. As imagens capturadas pela câmera são processadas localmente no seu dispositivo e não são armazenadas ou transmitidas para nossos servidores.  
+O aplicativo utiliza a câmera do dispositivo para ler comidas e ingredientes. As imagens capturadas pela câmera são processadas localmente no seu dispositivo e não são armazenadas ou transmitidas para nossos servidores.  
 
 ---
 
 **3. Uso das Informações**  
-As informações coletadas pela câmera são usadas exclusivamente para identificar e catalogar livros em sua Fat Key. Nenhum dado coletado é utilizado para outras finalidades.  
+As informações coletadas pela câmera são usadas exclusivamente para identificar comidas e ingredientes. Nenhum dado coletado é utilizado para outras finalidades.  
 
 ---
 
@@ -29,7 +29,7 @@ Não compartilhamos nenhuma informação coletada pelo aplicativo com terceiros.
 ---
 
 **5. Permissões Necessárias**  
-Para utilizar o recurso de leitura de código de barras, o aplicativo solicitará permissão para acessar a câmera do dispositivo. Essa permissão é necessária apenas para o funcionamento do recurso e pode ser revogada a qualquer momento através das configurações do dispositivo.  
+Para utilizar o recurso de câmera, o aplicativo solicitará permissão para acessar a câmera do dispositivo. Essa permissão é necessária apenas para o funcionamento do recurso e pode ser revogada a qualquer momento através das configurações do dispositivo.  
 
 ---
 
